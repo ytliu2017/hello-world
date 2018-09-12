@@ -1,5 +1,5 @@
 # hello-world
-just to get familiar
+just to become familiar
 
 Hi,
 I am following the tutorial
